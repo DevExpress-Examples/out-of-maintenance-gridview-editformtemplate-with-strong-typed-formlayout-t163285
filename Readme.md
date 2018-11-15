@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Q588216/Controllers/HomeController.cs)
+* [MyModel.cs](./CS/Q588216/Models/MyModel.cs)
+* [_FormLayoutPartial.cshtml](./CS/Q588216/Views/Home/_FormLayoutPartial.cshtml)
+* [_GridViewPartial.cshtml](./CS/Q588216/Views/Home/_GridViewPartial.cshtml)
+* [Index.cshtml](./CS/Q588216/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # GridView - EditFormTemplate with strong-typed FormLayout
 
 
