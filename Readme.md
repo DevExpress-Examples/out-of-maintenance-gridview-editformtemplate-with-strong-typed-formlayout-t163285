@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # GridView - EditFormTemplate with strong-typed FormLayout
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t163285)**
+**[[Run Online]](https://codecentral.devexpress.com/t163285/)**
 <!-- run online end -->
 
 
